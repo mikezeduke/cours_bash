@@ -1,1 +1,4 @@
-Bienvenue au cours bash collaboratif...
+cours_bash
+==========
+
+Bash en coopération
